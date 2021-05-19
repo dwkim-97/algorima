@@ -1,0 +1,67 @@
+@import "./reset.css";
+
+html, body{
+    background-color:#40739e;
+    width:100%;
+    height:100%;
+    user-select: none;
+}
+
+body{
+    position:relative;
+}
+
+.box{
+    position:absolute;
+    border-radius: 20px;
+    background-color: #192a56;
+    height: 200px;
+    width: 130px;
+    display:flex;
+    flex-direction: row;
+    justify-content:space-between;
+    box-shadow: 10px 10px 2px 1px #0000ff33;
+    z-index:1;
+}
+
+.btn{
+    position:relative;
+    margin: 10px 10px;
+    border-radius: 50px;
+    border: #628caf 1px solid;
+    width: 10px;
+    height:10px;
+    z-index: 3;
+}
+
+.btn:hover{
+    background-color:#89acc9;
+}
+
+.line{
+    position:absolute;
+    height: 0px;
+    background-color:#40739e;
+    border-top: dashed white;
+    transform-origin: top left;
+}
+
+.fixed{
+    background-color: #76a4ca;
+    height:2px;
+    border:none;
+    box-shadow: 10px 10px 2px 1px #0000ff33;
+}
+
+.add_box{
+    position: fixed;
+    height: 100px;
+    width: 100px;
+    border-radius:50%;
+    top: 80%;
+    left: 40%;
+    background-color: #192a56;
+    color: #89acc9;
+    font-size: 1rem;
+    border-width:5px;
+}
