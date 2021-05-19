@@ -14,3 +14,5 @@ test.html을 최신 버전의 구글 크롬 or 파이어 폭스로 실행해주�
 2) 박스 연결: 버튼을 클릭할 경우 점선이 나타나고, 다른 버튼에 가져다 대면 점선이 실선이 되며 연결됩니다.
 
 3) 박스 추가: Add Box 버튼을 클릭 시 새로운 박스가 화면 가운데 나타납니다.
+
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/62870938/118769379-11aede00-b8bb-11eb-905f-2a992bdfd5c5.gif)
