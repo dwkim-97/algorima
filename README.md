@@ -9,10 +9,12 @@ test.html을 최신 버전의 구글 크롬 or 파이어 폭스로 실행해주�
 
 ## 가능한 기능
 
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/62870938/118769730-71a58480-b8bb-11eb-9e2b-c1525594fe34.gif)
+
+
 1) 박스 드래그: 박스를 클릭하고 이동하면 화면 내에서 박스가 드래그 됩니다.
 
 2) 박스 연결: 버튼을 클릭할 경우 점선이 나타나고, 다른 버튼에 가져다 대면 점선이 실선이 되며 연결됩니다.
 
 3) 박스 추가: Add Box 버튼을 클릭 시 새로운 박스가 화면 가운데 나타납니다.
 
-![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/62870938/118769379-11aede00-b8bb-11eb-905f-2a992bdfd5c5.gif)
